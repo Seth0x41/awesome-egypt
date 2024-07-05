@@ -36,7 +36,7 @@
 - [Ahmed Elemam](https://www.youtube.com/@ahmdelemam) - Arabic videos for Software Engineers.
 - [null++](https://nullplus.plus/) - Null++ is an Arabic podcast powered by Cairo's Facebook Developers Circle Co-Leads, delivering valuable insights for MENA's software professionals to advance their careers
 
-- [Tech and Coffe](https://www.youtube.com/@ahmdelemam) - oin a community of tech enthusiasts enjoying premium coffee culture while delving into IT over lattes.
+- [Tech and Coffe](https://www.youtube.com/@tech.and.coffee) - oin a community of tech enthusiasts enjoying premium coffee culture while delving into IT over lattes.
 
 
 
@@ -72,7 +72,7 @@
 
 - [Mahmoud Youssef - محمود يوسف](https://www.youtube.com/@mahyoussef) - Software Engineering in Arabic.
 - [درة الاكواد لابن حماد](https://www.youtube.com/@quantum01010101/playlists) - Declarative Programming.
-- [محمد يحيى](https://www.youtube.com/@quantum01010101/playlists) - Web Development, Design Patterns and Best Practices
+- [محمد يحيى](https://www.youtube.com/@firefoxegyweb) - Web Development, Design Patterns and Best Practices
 
 - [📕 Dr. Ibrahim Gomaa](https://www.youtube.com/@dr.ibrahimgomaa6862) - Networks and Networks Security.
 
@@ -85,3 +85,4 @@
 
 - [Ahmed Fathi](https://www.youtube.com/@noone988-Ahmed-Fathi) - This is a computer engineering related channel in Arabic where he explains various topics
 - [Amsheer WaBasheer](https://www.youtube.com/@AmsheerWaBasheer) - This is a computer engineering related channel in Arabic where he explains various topics.
+- [php anonymous](https://www.youtube.com/@PhpAnonymous/playlists) - PHP, DenoJS, Laravel Courses.
