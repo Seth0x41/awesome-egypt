@@ -58,7 +58,6 @@
 - [Elzero Web School ](https://www.youtube.com/@ElzeroWebSchool) - It is a channel that offers multiple web development tracks and general programming learning through detailed interactive explanations in Arabic. It provides study plans with coding tests and challenges to ensure understanding and practical application of the code.
 - [Yallacode](https://www.youtube.com/@yallacode_) - Yallacode is an organization that provides developer support in Arabic
 - [Software ArchTalks for Arabs](https://www.youtube.com/@ArabSoftwareArchTalks) - Distributed Systems, Microservices, API Design and Managment, Domain Driven Design, etc.
-- [📕 Arabsera (FCIHOCW formerly)](https://www.youtube.com/@FCIHOCW) - Offers courses in mathematics, data science, data structures, machine learning, and digital design by Dr. Walid Youssef.
 - [📕 Ayman Bahaa-Eldin](https://www.youtube.com/@aymanbahaa-eldin1141) - He offers recorded courses in networking and information security.
 - [📕 Dr. Ahmed Hagag](https://www.youtube.com/@dr.ahmedhagag) - The channel provides simplified explanations of some subjects relevant to undergraduate students in Computer Science, Artificial Intelligence, Mathematics, and Software Engineering.
 - [📕 Dr Magdi Amer](https://www.youtube.com/@DrMagdiAmer) - Dr. Magdy Amer, with over 35 years of programming consultancy experience, plans to offer Arabic courses on Java, OOP, Cloud, SQL, No SQL, Kafka, WebFlux, Spring, and more.
