@@ -3,7 +3,7 @@
   <img width="300" src="logo.png" alt="Awesome Morocco" />
   <hr />
   <p>
-    <b> List of awesome Egyptian things for developers. 𓂀</b>
+    <b> List of awesome Egyptian things for developers. 📜</b>
     <br />
   </p>
   <hr />
