@@ -46,7 +46,7 @@
 
 ### Community Projects
 
-[egytech.fyi](https://egytech.fyi/) - Providing Egyptian tech professionals with clear salary data and career insights.
+- [egytech.fyi](https://egytech.fyi/) - Providing Egyptian tech professionals with clear salary data and career insights.
 
 ### YouTube Channels
 
