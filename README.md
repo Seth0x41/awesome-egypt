@@ -29,7 +29,7 @@
 - [Egypt JS](https://www.meetup.com/egyptjs/) - Connect with JavaScript developers for frontend, backend, mobile, VR, and hardware development.
 - [Cairo C++ Meetup](https://www.meetup.com/cairo-c-c-meetup-group/) - Cairo C++ Meetup Group is for professionals and beginners interested in C++/C, exchange of experience and networking.
 - [Embedded Meetup](linkedin.com/company/embeddedmeetup) - Enabling the collaboration between technology hubs, industry experts,  and entrepreneurs will offer better opportunities for individuals and the whole ecosystem.
-
+- [Backend Builders](https://x.com/BackendBuilders) - A thriving community of backend developers to connect, learn, and inspire together.
 
 ### Podcasts
 
@@ -47,6 +47,7 @@
 ### Community Projects
 
 - [egytech.fyi](https://egytech.fyi/) - Providing Egyptian tech professionals with clear salary data and career insights.
+- [Stack Info](https://stackinfo.me/) - Stack Info allows you to explore and find tech stacks used by more than 300 startups and corporates in EMEA.
 
 ### YouTube Channels
 
