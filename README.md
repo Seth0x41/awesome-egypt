@@ -57,10 +57,14 @@
 - [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) - Mostafa Saad Ibrahim is a competitive programming World Finalist (2011) and former TA at Cairo University (2009-2014). He holds a Ph.D. in Computer Vision from SFU (2018) and covers topics such as programming, OOP, data structures, and algorithms.
 - [Elzero Web School ](https://www.youtube.com/@ElzeroWebSchool) - It is a channel that offers multiple web development tracks and general programming learning through detailed interactive explanations in Arabic. It provides study plans with coding tests and challenges to ensure understanding and practical application of the code.
 - [Yallacode](https://www.youtube.com/@yallacode_) - Yallacode is an organization that provides developer support in Arabic
+- [Omar Morsy](https://www.youtube.com/@omarmorsy02) - YouTube sessions on algorithms, MOOC interviews.
+- [Youssef Hosni](https://www.youtube.com/@YoussefHosni95) - Youssef Hosny is a data scientist and researcher in the field of machine learning. He has over five years of experience in data science and machine learning, and their applications in the medical field, marketing, and e-commerce.
 - [Software ArchTalks for Arabs](https://www.youtube.com/@ArabSoftwareArchTalks) - Distributed Systems, Microservices, API Design and Managment, Domain Driven Design, etc.
 - [📕 Ayman Bahaa-Eldin](https://www.youtube.com/@aymanbahaa-eldin1141) - He offers recorded courses in networking and information security.
 - [📕 Dr. Ahmed Hagag](https://www.youtube.com/@dr.ahmedhagag) - The channel provides simplified explanations of some subjects relevant to undergraduate students in Computer Science, Artificial Intelligence, Mathematics, and Software Engineering.
 - [📕 Dr Magdi Amer](https://www.youtube.com/@DrMagdiAmer) - Dr. Magdy Amer, with over 35 years of programming consultancy experience, plans to offer Arabic courses on Java, OOP, Cloud, SQL, No SQL, Kafka, WebFlux, Spring, and more.
+- [📕 Dr Mervat Mikhail](https://www.youtube.com/@DrMervatMikhail) - Lecturer at Alexandria University's Faculty of Engineering, providing courses in Data Structures, Algorithms, and Mathematics. 
+- [📕 Dr Hicham Elmongui](https://www.youtube.com/@elmongui76) - Lecturer at Alexandria University's Faculty of Engineering, providing courses in Databases, Operating systems, Networks, and Distributed systems. 
 - [Mahmoud Youssef - محمود يوسف](https://www.youtube.com/@mahyoussef) - Software Engineering in Arabic.
 - [درة الاكواد لابن حماد](https://www.youtube.com/@quantum01010101/playlists) - Declarative Programming.
 - [محمد يحيى](https://www.youtube.com/@firefoxegyweb) - Web Development, Design Patterns and Best Practices
