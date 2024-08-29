@@ -43,6 +43,7 @@
 
 - [Ahmed Ghazey](https://ahmedghazey.medium.com/) - Seasoned Senior Staff Software Engineer with a proven track record of delivering complex software solutions, managing teams, and providing technical leadership.
 - [Mahmoud Salem](https://hashnode.com/@mahsayedsalem) - Software Engineer with experience in building, scaling and maintaining web applications.
+- [Sayed Alesawy](https://sayedalesawy.hashnode.dev/) - Lead Software Engineer, passionate about large-scale server-side applications and distributed systems.
 
 ### Community Projects
 
