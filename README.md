@@ -41,12 +41,15 @@
 - [null++](https://nullplus.plus/) - Null++ is an Arabic podcast powered by Cairo's Facebook Developers Circle Co-Leads, delivering valuable insights for MENA's software professionals to advance their careers
 - [Tech and Coffe](https://www.youtube.com/@tech.and.coffee) - oin a community of tech enthusiasts enjoying premium coffee culture while delving into IT over lattes.
 - [سكيورتي بالعربي ](https://music.youtube.com/playlist?list=PLTZJNA1ULApUyLKgMFwxO5n6LlbekKOL2) - non-profit podcast promoting cybersecurity content in Arabic. 
+- [untyped.fm](https://untyped.fm/) - Weekly 30-45 minute episodes on Frontend and JavaScript in Arabic.
+- [CodeCast - كودكاست](https://youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy) - Arabic videos with valuable egyptian speakers.
 
 ### Blogs
 
 - [Ahmed Ghazey](https://ahmedghazey.medium.com/) - Seasoned Senior Staff Software Engineer with a proven track record of delivering complex software solutions, managing teams, and providing technical leadership.
 - [Mahmoud Salem](https://hashnode.com/@mahsayedsalem) - Software Engineer with experience in building, scaling and maintaining web applications.
 - [Sayed Alesawy](https://sayedalesawy.hashnode.dev/) - Lead Software Engineer, passionate about large-scale server-side applications and distributed systems.
+- [Eqraatech - إقرأ تك](https://eqraatech.com/) - Contains Arabic blogs that cover several topics in software engineering.
 
 ### Community Projects
 
@@ -83,3 +86,4 @@
 - [📕 Dr Mervat Mikhail](https://www.youtube.com/@DrMervatMikhail) - Lecturer at Alexandria University's Faculty of Engineering, providing courses in Data Structures, Algorithms, and Mathematics. 
 - [📕 Dr Hicham Elmongui](https://www.youtube.com/@elmongui76) - Lecturer at Alexandria University's Faculty of Engineering, providing courses in Databases, Operating systems, Networks, and Distributed systems. 
 - [📕 Dr. Ibrahim Gomaa](https://www.youtube.com/@dr.ibrahimgomaa6862) - Networks and Networks Security.
+- [Ahmed Ibrahim](https://www.youtube.com/@ai1998) - This channel contains 5 courses (Machine learning, deep learning, computer vision, NLP, Raspberry pi), the order of AI courses [`check comments`](https://www.linkedin.com/posts/ahmed-ibrahim-93b49b190_%D8%A8%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D8%A7%D8%B3%D8%A3%D9%84%D9%87-%D9%88%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA-%D9%83%D8%AA%D9%8A%D8%B1-%D8%AD%D9%88%D9%84-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%8A-activity-7309955054411636739-6su8/).
