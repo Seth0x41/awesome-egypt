@@ -52,6 +52,7 @@
 
 - [egytech.fyi](https://egytech.fyi/) - Providing Egyptian tech professionals with clear salary data and career insights.
 - [Stack Info](https://stackinfo.me/) - Stack Info allows you to explore and find tech stacks used by more than 300 startups and corporates in EMEA.
+- [Techny](https://techny.dev/) - Tech jobs in Egypt and the Gulf, read from each company's own careers page every 3 hours, with Egyptian startups and their funding rounds.
 
 ### YouTube Channels
 
